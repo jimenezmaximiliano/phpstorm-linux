@@ -4,6 +4,7 @@
       <mapping pattern="MessageShareable" type="PHP" />
       <mapping pattern="VariableParser.php" type="PHP" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
+      <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
